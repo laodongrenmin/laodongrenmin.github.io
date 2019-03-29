@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
+title: BY 劳动人民
 SEOTitle: 劳动人民的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: zhengbangdong.zh@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 劳动人民的博客"
+keyword: "BY, BY Laodongrenmin, 劳动人民的博客"
 url: "http://laodongrenmin.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/laodongrenmin/laodongrenmin.github.io.git" # you code repository
